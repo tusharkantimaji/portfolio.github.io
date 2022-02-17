@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/tushar-kanti-maji-352a56187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tushar-kanti-maji-352a56187" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/tusharkanti20011" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tusharkanti20011" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tusharkanti2001maji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tusharkanti2001maji" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/maji2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maji2001" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/tushar_k_maji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maji2001" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/tushar_kanti_maji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tushar_kanti_maji" height="30" width="40" /></a>
 </p>
 
