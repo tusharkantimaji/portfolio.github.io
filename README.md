@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 <img  src="https://github.com/tusharkantimaji/Tushar-Kanti-Maji/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(1).png">
 
 <h1 align="center">Hi 👋, I'm Tushar 👨‍💻</h1>
