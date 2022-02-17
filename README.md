@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<img  src="https://github.com/tusharkantimaji/Tushar-Kanti-Maji/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(1).png">
+<img  src="https://github.com/tusharkantimaji/tusharkantimaji/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner%20(1).png">
 
 <h1 align="center">Hi 👋, I'm Tushar 👨‍💻</h1>
 <h3 align="center">I'm a passionate Software Developer 💻, Competitive Programmer 🎮 and a Machine Leaning Enthusiastic 🤖.</h3> <hr>
